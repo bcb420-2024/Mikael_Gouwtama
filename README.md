@@ -9,6 +9,7 @@ Click [here](https://github.com/bcb420-2024/Mikael_Gouwtama/blob/main/A1/A1_Mika
 
 # Assignment 2
 Click [here](https://github.com/bcb420-2024/Mikael_Gouwtama/blob/main/A2/A2_MikaelGouwtama.Rmd) to view my A2
+Click [here](https://github.com/bcb420-2024/Mikael_Gouwtama/wiki/A2) to view my A2 **journey**
 
 # Licence
 This work is licenced under the [Creative Commons International 4.0](https://creativecommons.org/licenses/by/4.0/) 
