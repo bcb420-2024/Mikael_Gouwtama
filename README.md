@@ -6,6 +6,7 @@ All my progress will be documented in the Journal section of my [wiki page](http
 
 # Assignment 1
 * Click [here](https://github.com/bcb420-2024/Mikael_Gouwtama/blob/main/A1/A1_MikaelGouwtama.Rmd) to view my A1 notebook
+* Click [here](https://github.com/bcb420-2024/Mikael_Gouwtama/wiki/A1) to view my A1 journey
 
 # Assignment 2
 * Click [here](https://github.com/bcb420-2024/Mikael_Gouwtama/blob/main/A2/A2_MikaelGouwtama.Rmd) to view my A2 notebook
